@@ -225,6 +225,23 @@ body {
   color: var(--log-capture);
 }
 
+/*ツール説明*/
+.desc-title {
+  margin-bottom: 4rem;
+}
+
+.desc-section {
+  margin-bottom: 2rem;
+}
+
+.description {
+  margin-bottom: 3rem;
+}
+
+.desc-section:last-child {
+  margin-bottom: 1rem;
+}
+
 /* フッターナビゲーション */
 .nav-footer {
   margin-top: 20px;
